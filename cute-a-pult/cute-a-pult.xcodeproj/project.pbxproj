@@ -158,7 +158,6 @@
 		8520E2041555556A00A19C57 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8520E2031555556A00A19C57 /* RootViewController.m */; };
 		8520E2071555556A00A19C57 /* HelloWorldLayer.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8520E2061555556A00A19C57 /* HelloWorldLayer.mm */; };
 		8520E20A1555556A00A19C57 /* GLES-Render.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8520E2091555556A00A19C57 /* GLES-Render.mm */; };
-		8520E20D1555556A00A19C57 /* blocks.png in Resources */ = {isa = PBXBuildFile; fileRef = 8520E20C1555556A00A19C57 /* blocks.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -472,7 +471,6 @@
 		8520E2081555556A00A19C57 /* GLES-Render.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GLES-Render.h"; sourceTree = "<group>"; };
 		8520E2091555556A00A19C57 /* GLES-Render.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = "GLES-Render.mm"; sourceTree = "<group>"; };
 		8520E20B1555556A00A19C57 /* GameConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameConfig.h; sourceTree = "<group>"; };
-		8520E20C1555556A00A19C57 /* blocks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blocks.png; path = Resources/blocks.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -558,7 +556,6 @@
 				8520E04A1555556700A19C57 /* Icon@2x.png */,
 				8520E04C1555556700A19C57 /* Info.plist */,
 				8520E04D1555556700A19C57 /* iTunesArtwork */,
-				8520E20C1555556A00A19C57 /* blocks.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -1063,7 +1060,6 @@
 				8520E0491555556700A19C57 /* Icon.png in Resources */,
 				8520E04B1555556700A19C57 /* Icon@2x.png in Resources */,
 				8520E04E1555556700A19C57 /* iTunesArtwork in Resources */,
-				8520E20D1555556A00A19C57 /* blocks.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
